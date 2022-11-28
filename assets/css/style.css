@@ -1,0 +1,67 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+ }
+ 
+ .contenido-principal{
+     background-color: #4444;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     width: 100%;
+ }
+ 
+ .contenido-secundario img{
+     height: 100s0px;
+     width: 150px;
+ }
+ 
+ .contactos{
+     width: 60vh;
+     background-color: gainsboro;
+ }
+ 
+ .chat{
+     display: flex;
+     height: 106vh;
+ }
+ 
+ .idnombre{
+     height: 0px;
+     text-size-adjust: 10px;
+ }
+ 
+ .idstatus{
+     height: 0px;
+     width:auto;
+     color: dimgray;
+ }
+ 
+ 
+ .personas{
+     display: flex;
+     justify-content: space-evenly;
+ }
+ 
+ .personas img{
+     height: 55px;
+     width: 50px;
+     border-radius: 150px;
+ }
+ 
+ .nuevochat{
+     height: 90px;
+     align-items: center;
+     justify-content: center;
+     display: flex;
+ }
+ 
+ .boton{
+     height: 45px;
+     width: 200px;
+     background-color:  rgba(164,144,210,216);
+     color: white;
+     cursor: pointer;
+ }
+ 
